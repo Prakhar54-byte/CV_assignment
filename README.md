@@ -16,10 +16,10 @@
 
 The isolated MAGGI packet used as the template for feature extraction and matching.
 
-![Template Image](./template.jpeg)
+![Template Image](./maggie.jpeg)
 
 ### Query Image
 
 The cluttered query image containing multiple MAGGI packet instances.
 
-![Query Image](./query.jpeg)
+![Query Image](./test.jpeg)

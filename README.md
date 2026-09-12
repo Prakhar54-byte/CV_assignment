@@ -4,12 +4,6 @@
 **Roll Number:** B23BB1032  
 **Course:** Computer Vision  
 
-**GitHub Repository:** https://github.com/Prakhar54-byte/CV_assignment  
-
-## Report
-
-[Download / View the Report (PDF)](./report.pdf)
-
 ## Input Images
 
 ### Template Image
